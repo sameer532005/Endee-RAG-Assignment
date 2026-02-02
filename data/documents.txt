@@ -1,0 +1,8 @@
+Endee is a high-performance vector database designed for storing and retrieving embeddings using similarity search.
+
+Vector databases are commonly used in AI applications such as semantic search, recommendation systems, and retrieval augmented generation (RAG).
+
+RAG improves AI responses by retrieving relevant documents from a vector database before generating an answer.
+Endee supports semantic search by comparing vector embeddings using similarity metrics.
+
+RAG systems are commonly used in chatbots, internal knowledge bases, and document question-answering systems.
